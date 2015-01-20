@@ -4,3 +4,7 @@ This runs akka reactive streams with a simple web server interface for viewing t
 - Start Test[1-5]
 - Run a web browser with websocket support, and point to localhost:8080
 - Refresh if the diagram doesn't update immediately.
+
+Includes the following javascript libraries:
+- cytoscape.js
+- jquery (initialization hooks)
